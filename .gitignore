@@ -24,3 +24,7 @@ Thumbs.db
 /node_modules
 /build
 /vendor
+composer.lock
+
+.phpunit.result.cache
+
