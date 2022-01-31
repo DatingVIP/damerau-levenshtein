@@ -1,11 +1,11 @@
 {
-	"name": "oefenweb/damerau-levenshtein",
+	"name": "datingvip/damerau-levenshtein",
 	"description": "Get text similarity level with Damerau-Levenshtein distance",
 	"type": "library",
 	"keywords": [
 		"damerau", "levenshtein", "distance", "similarity"
 	],
-	"homepage": "http://github.com/Oefenweb/damerau-levenshtein",
+	"homepage": "http://github.com/DatingVIP/damerau-levenshtein",
 	"license": "MIT",
 	"authors": [{
 			"name": "Ph4r05",
@@ -28,8 +28,8 @@
 		"phpstan/phpstan": "^0.12.66"
 	},
 	"support": {
-		"issues": "https://github.com/Oefenweb/damerau-levenshtein/issues",
-		"source": "https://github.com/Oefenweb/damerau-levenshtein"
+		"issues": "https://github.com/DatingVIP/damerau-levenshtein/issues",
+		"source": "https://github.com/DatingVIP/damerau-levenshtein"
 	},
 	"autoload": {
 		"psr-4": {
